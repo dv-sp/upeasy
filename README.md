@@ -2,4 +2,4 @@
 
 O propósito do framework é possíbilitar que times sem conhecimentos complexos de técnologia possam realizar cargas de arquivos xsl, csv, txt e outros de forma automatizada, a partir do processo de arrastar e soltar. Simples assim. 
 
-![image](https://user-images.githubusercontent.com/52162034/183712818-3985fddf-56a0-4871-8126-41b0f9d7df34.png)
+![image](https://user-images.githubusercontent.com/52162034/183714769-14ccfedb-56f2-4fad-af35-57f3b44fae33.png)
